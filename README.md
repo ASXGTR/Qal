@@ -1,4 +1,4 @@
-# Quackworks Acoustic Lock (QAL)
+[# Quackworks Acoustic Lock (QAL)
 
 ### An experimental near-ultrasonic "proof you are in the room" token, built as a car-immobilizer simulation
 
@@ -432,3 +432,4 @@ So rather than let months of work sit on a hard drive, I'm giving it away. If an
 
 Released under the **[Apache License, Version 2.0](LICENSE)**. You're free to use, modify, distribute, and integrate this into open-source, educational, or commercial projects.
 
+](https://www.youtube.com/playlist?list=PLN_C2hcSkyjQ)
