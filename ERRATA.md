@@ -118,3 +118,4 @@ It assumes existing cabin microphones pass 16-17 kHz and phone speakers produce 
 - Sound is not a perfect air-gap. A mic near the phone and a speaker in the car, linked in real time, is a plausible attack that has not been tested.
 - Jamming can deny convenience but is intended to fail to the PIN fallback, not to unlock.
 - No security review of any kind has been done.
+
